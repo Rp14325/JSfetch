@@ -1,0 +1,25 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.postElement{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.post-title{
+    color:aquamarine;
+    font-size: 15px;
+
+
+}
+
+.postBody{
+    
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+
